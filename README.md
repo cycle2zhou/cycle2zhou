@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+cycle_zhou+👋;Java+Backend+Developer;Big+Data+Platform+Engineer;Open+Source+Contributor" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey+there!+cycle_zhou;Java+Backend+Developer;Big+Data+Platform+Engineer;Open+Source+Contributor" />
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
