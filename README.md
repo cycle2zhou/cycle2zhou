@@ -1,10 +1,12 @@
-# 👋 Hi, I'm cycle_zhou
+<p align="center">
+  <img src="https://img.shields.io/badge/cycle__zhou-Java%20Backend%20|%20Big%20Data%20|%20Data%20Platform-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=555" />
+</p>
 
-[![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=cycle_zhou&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Backend%20%7C%20Big%20Data%20%7C%20Data%20Platform&descAlignY=51&descAlign=50)](https://github.com/cycle2zhou)
+<h1 align="center">👋 Hi, I'm cycle_zhou</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=60&lines=Java+后端开发工程师;大数据平台架构师;开源爱好者+%7C+数据平台建设者;欢迎来到我的GitHub主页)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=60&lines=Java+后端开发工程师;大数据平台架构师;开源爱好者+%7C+数据平台建设者;欢迎来到我的GitHub主页)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<hr>
 
 ### 💫 About Me
 
@@ -59,12 +61,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cycle2zhou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cycle2zhou&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=cycle2zhou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=cycle2zhou&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cycle2zhou&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9" />
+  <img src="https://streak-stats.demolab.com/?user=cycle2zhou&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9" />
 </div>
 
 ---
@@ -86,10 +88,10 @@
 ### 🔗 Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-cycle2zhou-181717?style=for-the-badge&logo=github)](https://github.com/cycle2zhou)
-[![Gitee](https://img.shields.io/badge/Gitee-账号-C71D23?style=for-the-badge&logo=gitee)](https://gitee.com/cycle2zhou)
+[![Gitee](https://img.shields.io/badge/Gitee-cyclezhou-C71D23?style=for-the-badge&logo=gitee)](https://gitee.com/cyclezhou)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<hr>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <sub>Thanks for visiting ❤️</sub>
 </p>
